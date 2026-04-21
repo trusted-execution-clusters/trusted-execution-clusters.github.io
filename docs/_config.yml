@@ -3,7 +3,7 @@
 # To test documentation changes locally or using GitHub Pages, see:
 # https://github.com/coreos/fedora-coreos-tracker/blob/main/docs/testing-project-documentation-changes.md
 
-title: Trusted Execution Clusters
+title: TEC
 description: Documentation for the Trusted Execution Clusters
 baseurl: "/"
 url: "https://trusted-execution-clusters.github.io"
